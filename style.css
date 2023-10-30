@@ -54,3 +54,13 @@ li {
 .pizza {
     width: 50%;
 }
+
+/* Cake page */
+
+.textcake {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
