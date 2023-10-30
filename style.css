@@ -64,3 +64,8 @@ li {
     font-size: 25px;
     font-weight: bold;
 }
+
+.sectionone {
+    border: 1px solid white;
+    background-color: darkslateblue;
+}
