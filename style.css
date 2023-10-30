@@ -85,3 +85,8 @@ li {
     height: 275px;
     padding: 4px;
 }
+
+.cakegroup {
+    border: 2px solid green;
+    width: 275px;
+}
